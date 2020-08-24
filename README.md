@@ -1,5 +1,5 @@
 # Project 1
-<b>Team:</b> Rafael Cespedes and <a href="https://github.com/mendozajy/FinalGroupProject" target="_blank">Jessica Mendonza</a>
+<b>Team:</b> Rafael Cespedes and <a href="https://github.com/mendozajy/FinalGroupProject" target="_blank">Jessica Mendoza</a>
 
 <b>Project summary:</b> To analyze the impact of COVID-19 global pandemic on Airbnb listings in San Francisco, California. We’ll specifically examine Airbnb data the first half of 2020 against prior three years.
 
